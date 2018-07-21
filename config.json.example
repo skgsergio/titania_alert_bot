@@ -1,0 +1,13 @@
+{
+  "token": "1234567890:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+  "authorized_user_ids": [1234567, 123456789],
+  "influxdb": {
+    "proto": "http",
+    "host": "192.168.1.2",
+    "port": 8086
+  },
+  "defaults": {
+    "sensor": "terraza",
+    "host": "titania"
+  }
+}
